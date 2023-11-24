@@ -1,0 +1,15 @@
+{
+  "name": "Block Shallow Copy",
+  "version": "1.0.0",
+  "author": "Mateusz Myalski",
+  "main": "index.html",
+  "description": "The Block Shallow Copy plugin empowers users with a seamless copying block's children experience.",
+  "license": "MIT",
+  "dependencies": {
+    "@logseq/libs": "^0.0.15"
+  },
+  "logseq": {
+    "id": "logseq-plugin-shallow-copy",
+    "icon": "logo.png"
+  }
+}
