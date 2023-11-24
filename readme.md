@@ -1,4 +1,4 @@
-# Block shallow copy logseq plugin
+# Logseq block shallow copy
 ![demo](./demo.gif)
 
 The Block Shallow Copy plugin empowers users with a seamless copying experience, allowing them to duplicate a selected block along with all its child blocks, limited to a depth of one level. This feature proves invaluable when you need to replicate a specific section of content, preserving its hierarchical structure effortlessly.
