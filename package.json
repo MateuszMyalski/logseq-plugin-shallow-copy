@@ -1,5 +1,5 @@
 {
-  "name": "Block Shallow Copy",
+  "name": "logseq-plug-shallow-copy",
   "version": "1.0.0",
   "author": "Mateusz Myalski",
   "main": "index.html",
@@ -9,6 +9,7 @@
     "@logseq/libs": "^0.0.15"
   },
   "logseq": {
+    "title": "Block Shallow Copy",
     "id": "logseq-plugin-shallow-copy",
     "icon": "logo.png"
   }
